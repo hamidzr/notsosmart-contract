@@ -11,4 +11,4 @@
 
 Goal: Motivate (and reward) people to contribute to value A.
 
-Question: how, if at all, could using smart contracts help this goal?
+Question: how, if at all, could using smart contracts help this goal? what problems would it solve?
